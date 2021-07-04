@@ -1,5 +1,5 @@
 AS := nasm
-ASFLAGS = -f elf64
+ASFLAGS := -f elf64
 
 LD := ld
 LDFLAGS :=
